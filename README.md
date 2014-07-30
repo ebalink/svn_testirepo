@@ -1,4 +1,4 @@
 svn_testirepo
 =============
 
-*kursivoitu ja _lihavoitu_ teksti*
+*kursivoitu ja __lihavoitu__ teksti*
